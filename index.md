@@ -2,7 +2,9 @@
 
 ## Education
 *PhD Statistical Sciences*, UCL (2010–13). Thesis title: *Practical Use of Multiple Imputation*.
+
 *MSc Medical Statistics*, LSHTM (2006–07).
+
 *BSc Statistics*, University of Reading (2003–06).
 
 ## Employment
