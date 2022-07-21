@@ -8,6 +8,7 @@
 *BSc Statistics*, University of Reading (2003–06).
 
 ## Employment
+* Principal Research Fellow in Statistical Methodology, Methodology theme, MRC Clinical Trials Unit at UCL, Institute of Clinical Trials and Methodology (2022–).
 * Senior Research Associate in Statistical Methodology, Methodology theme, MRC Clinical Trials Unit at UCL, Institute of Clinical Trials and Methodology (2017–).
 * Medical Statistician, Methodology theme, MRC Clinical Trials Unit at UCL (2012–17)
 * Junior Medical Statistician, Other Diseases Group, MRC Clinical Trials Unit (2007–10)
